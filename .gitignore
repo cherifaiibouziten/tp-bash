@@ -1,1 +1,3 @@
-aaaaaaaa EOF
+.DS_Store
+    *.tmp
+    EOF
